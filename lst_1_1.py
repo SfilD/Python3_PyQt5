@@ -3,3 +3,4 @@
 # Проверка установки
 import sys
 print(tuple(sys.version_info))
+print(sys.version_info)
